@@ -12,3 +12,10 @@ Tests are written with `vitest` testing framework.
 ```
 npm test
 ```
+
+## Linting
+
+Biome is used for linting.
+```
+biome lint
+```
